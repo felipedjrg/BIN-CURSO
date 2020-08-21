@@ -63,31 +63,31 @@ Algunos ejemplos:
 
 
 
-#### [Dia 1]()
+#### [Dia 1](https://github.com/felipedjrg/BIN-CURSO/tree/master/DIA-1)
 
 * BLABLABLA 
 * BLABLABLA
 * BLABLABLA
 
-#### [Dia 2]()
+#### [Dia 2](https://github.com/felipedjrg/BIN-CURSO/tree/master/DIA-2)
 
 * BLABLABLA 
 * BLABLABLA
 * BLABLABLA
 
-#### [Dia 3]()
+#### [Dia 3](https://github.com/felipedjrg/BIN-CURSO/tree/master/DIA-3)
 
 * BLABLABLA 
 * BLABLABLA
 * BLABLABLA
 
-#### [Dia 4]()
+#### [Dia 4](https://github.com/felipedjrg/BIN-CURSO/tree/master/DIA-4)
 
 * BLABLABLA 
 * BLABLABLA
 * BLABLABLA
 
-#### [Dia 5]()
+#### [Dia 5](https://github.com/felipedjrg/BIN-CURSO/tree/master/DIA-5)
 
 * BLABLABLA 
 * BLABLABLA
