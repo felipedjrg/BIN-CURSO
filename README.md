@@ -1,0 +1,2 @@
+# BIN-CURSO
+taller bioinformatico
