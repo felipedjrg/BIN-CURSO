@@ -51,12 +51,7 @@ Los **objetivos particulares** son:
 
 ### Que NO es este curso
 
-* La respuesta a qué tienes que hacer en tu proyecto de tesis.
-* Una discusión profunda de los diferentes softwares para analizar datos, genomas, transcriptomas, metabarcoding, etc.
-
-En otras palabras en este curso no te vamos a decir qué programa utilizar ni discutir a profundidad métodos de ensamblado etc. Para eso hay cursos especializados intensivos de un par de días que asumen ya sabes usar chido la terminal.
-
-Algunos ejemplos:
+ en este curso no te vamos a decir qué programa utilizar ni discutir a profundidad métodos de ensamblado etc. Para eso hay cursos especializados intensivos de un par de días que asumen ya sabes usar chido la terminal.
 
 
 ## Temario
