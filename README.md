@@ -12,12 +12,25 @@ Este curso es ofrecido como ***** ,orientado a entregar las herramientas básica
 INSTRUCTORES:
 
 **Dr.Salvador Fonceca**
-Investigador SNI 2 blablabla  
+Investigador SNI 2  
 contacto:[salvador@gmail.com](correo)
 
-**Lic. Paul**
+**M.C. Thalia Adriana Alatorre Garcia**
 Estudiante de maestria enfocada en bioinformatica 
-correo:[paul@gmail.com](paul@gmail.com) 
+correo:[thaliaa_alatorreg@yahoo.com](thaliaa_alatorreg@yahoo.com) 
+mvztaag@gmail.com(mvztaag@gmail.com)
+
+
+**Lic. Paúl Alexis López Durán**
+Estudiante de Maestría en Biomedicina y Biotécnologia Molecular
+correo:[paullodu@live.com.mx](paullodu@live.com.mx)
+
+**Lic. Felipe Rodriguez Gaxiola**
+correo:[paullodu@live.com.mx](paullodu@live.com.mx)
+
+**Lic. Cruz Fernando López Carrera**
+Estudiante de Maestría en Biomedicina y Biotécnologia Molecular
+correo:[paullodu@live.com.mx](paullodu@live.com.mx)
 
 Los materiales aquí presentados son de acceso libre. La transmisión online y videos de clases se pueden encontrar en:
 *  [este canal de Youtube]()
