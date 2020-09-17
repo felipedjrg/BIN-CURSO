@@ -15,7 +15,7 @@ INSTRUCTORES:
 Investigador SNI 2  
 contacto:[salvador@gmail.com](correo)
 
-**M.C. Thalia Adriana Alatorre Garcia**
+**M.C. Thalia Adriana Alatorre Garcia**  
 Estudiante de maestria enfocada en bioinformatica 
 correo:[thaliaa_alatorreg@yahoo.com](thaliaa_alatorreg@yahoo.com) 
 mvztaag@gmail.com(mvztaag@gmail.com)
