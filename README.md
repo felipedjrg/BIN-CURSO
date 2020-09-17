@@ -21,7 +21,7 @@ correo:[thaliaa_alatorreg@yahoo.com](thaliaa_alatorreg@yahoo.com)
 mvztaag@gmail.com(mvztaag@gmail.com)
 
 
-**Lic. Paúl Alexis López Durán**
+**Lic. Paúl Alexis López Durán**  
 Estudiante de Maestría en Biomedicina y Biotécnologia Molecular
 correo:[paullodu@live.com.mx](paullodu@live.com.mx)
 
