@@ -16,7 +16,7 @@ Investigador SNI 2 blablabla
 contacto:[salvador@gmail.com](correo)
 
 **Lic. Paul**
-genio de la bioinformatica  
+Estudiante de maestria enfocada en bioinformatica 
 correo:[paul@gmail.com](paul@gmail.com) 
 
 Los materiales aquí presentados son de acceso libre. La transmisión online y videos de clases se pueden encontrar en:
