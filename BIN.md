@@ -1,8 +1,8 @@
 # BIN-CURSO
 
-**Introducción a la bioinformática e investigación 
+# Introducción a la bioinformática e investigación  
 
-# Introducción a la Bioinformática para Biólogo/as y Genetistas
+** Introducción a la Bioinformática para Biólogo/as y Genetistas **
 
 
 Este curso es ofrecido como ***** ,orientado a entregar las herramientas básicas para análisis de datos genómicos en el contexto de genética, especialmente la genética de poblaciones.
