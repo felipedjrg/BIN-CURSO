@@ -11,30 +11,26 @@ Este curso es ofrecido como ***** ,orientado a entregar las herramientas básica
 
 INSTRUCTORES:
 
-**Dr.Salvador Fonceca**
+**Dr.Salvador Fonceca**  
 Investigador SNI 2  
-contacto:[salvador@gmail.com](correo)
+contacto:[salvador@gmail.com](correo)  
 
 **M.C. Thalia Adriana Alatorre Garcia**  
-Estudiante de maestria enfocada en bioinformatica 
-correo:[thaliaa_alatorreg@yahoo.com](thaliaa_alatorreg@yahoo.com) 
-mvztaag@gmail.com(mvztaag@gmail.com)
+Estudiante de maestria enfocada en bioinformatica  
+Correo:[thaliaa_alatorreg@yahoo.com](thaliaa_alatorreg@yahoo.com)  
+mvztaag@gmail.com(mvztaag@gmail.com)  
 
 
 **Lic. Paúl Alexis López Durán**  
-Estudiante de Maestría en Biomedicina y Biotécnologia Molecular
-correo:[paullodu@live.com.mx](paullodu@live.com.mx)
+Estudiante de Maestría en Biomedicina y Biotécnologia Molecular  
+correo:[paullodu@live.com.mx](paullodu@live.com.mx)  
 
-**Lic. Felipe Rodriguez Gaxiola**
-correo:[paullodu@live.com.mx](paullodu@live.com.mx)
+**Lic. Felipe Rodriguez Gaxiola**  
+correo:[felipedjrg3@gmail.com](felipedjrg3@gmail.com)  
 
-**Lic. Cruz Fernando López Carrera**
-Estudiante de Maestría en Biomedicina y Biotécnologia Molecular
-correo:[paullodu@live.com.mx](paullodu@live.com.mx)
-
-Los materiales aquí presentados son de acceso libre. La transmisión online y videos de clases se pueden encontrar en:
-*  [este canal de Youtube]()
-
+**Lic. Cruz Fernando López Carrera**  
+Estudiante de Maestría en Biomedicina y Biotécnologia Molecular  
+correo:[paullodu@live.com.mx](paullodu@live.com.mx)  
 
 
 
@@ -110,8 +106,8 @@ Los **objetivos particulares** son:
 * **¿requerimientos computacionales?**
      
   -  **RAM minima:**      4GB
-  -  **Memoria libre:**   *** GB
-  -  Haber precargado en su computadora el archivo OVA mediante virtual box donde ya vienen precargados todos los softwares que utilizaremos para el curso 
+  -  **Memoria libre:**   8 GB
+  -  Haber precargado en su computadora el archivo OVA mediante Virtual-Box donde ya vienen precargados todos los softwares que utilizaremos para el curso 
 
 
 ### Este repositorio
