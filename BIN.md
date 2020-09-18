@@ -1,8 +1,6 @@
 # BIN-CURSO
 
-# README
-
-# Introducción a la bioinformática e investigación 
+**Introducción a la bioinformática e investigación 
 
 # Introducción a la Bioinformática para Biólogo/as y Genetistas
 
