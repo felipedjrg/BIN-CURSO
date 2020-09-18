@@ -9,22 +9,23 @@ Este curso es ofrecido como ***** ,orientado a entregar las herramientas básica
 
 INSTRUCTORES:
 
-**Dr.Salvador Fonceca**  
+**Dr. Salvador Fonceca**  
 Investigador SNI 1  
-[salvador@gmail.com](correo)  
+Facultad de Estudios Superiores Cuautitlan
+[salvador@gmail.com] 
 
 **M.C. Thalia Adriana Alatorre Garcia**  
 Estudiante de maestria enfocada en bioinformatica  
-[thaliaa_alatorreg@yahoo.com](thaliaa_alatorreg@yahoo.com)  
-[mvztaag@gmail.com] 
+[thaliaa_alatorreg@yahoo.com]
+[mvztaag@gmail.com]  
 
 
 **Lic. Paúl Alexis López Durán**  
 Estudiante de Maestría en Biomedicina y Biotécnologia Molecular  
-[paullodu@live.com.mx](paullodu@live.com.mx)  
+[paullodu@live.com.mx]  
 
 **Lic. Felipe Rodriguez Gaxiola**  
-[felipedjrg3@gmail.com](felipedjrg3@gmail.com)  
+[felipedjrg3@gmail.com]  
 
 **Lic. Cruz Fernando López Carrera**  
 Estudiante de Maestría en Biomedicina y Biotécnologia Molecular  
@@ -66,45 +67,39 @@ En este curso no te vamos a decir qué programa utilizar ni discutir a profundid
 
 #### [Dia 1](https://github.com/felipedjrg/BIN-CURSO/tree/master/DIA-1)
 
-* BLABLABLA 
-* BLABLABLA
-* BLABLABLA
+* Secuenciación de Siguiente Generación (NGS) 
+* Bases de Datos de Información Biológica
 
 #### [Dia 2](https://github.com/felipedjrg/BIN-CURSO/tree/master/DIA-2)
 
-* BLABLABLA 
-* BLABLABLA
+* Intérpretes de comandos y lenguajes (BASH)
+* Ejercicios en terminal
 * BLABLABLA
 
 #### [Dia 3](https://github.com/felipedjrg/BIN-CURSO/tree/master/DIA-3)
 
-* BLABLABLA 
-* BLABLABLA
-* BLABLABLA
+* Filogenia
 
 #### [Dia 4](https://github.com/felipedjrg/BIN-CURSO/tree/master/DIA-4)
 
-* BLABLABLA 
-* BLABLABLA
-* BLABLABLA
+* Secuencias aminoacídicas y estructuras 3D
+* Modelado I-TISSER
 
 #### [Dia 5](https://github.com/felipedjrg/BIN-CURSO/tree/master/DIA-5)
 
-* BLABLABLA 
-* BLABLABLA
-* BLABLABLA
+* Aplicaciones de la Bioinformática
 
 ## Dinámica del curso
 
 ### ¿Cómo serán las clases?
 * Exposición virtual tanto teórica como practica donde se harán ejercicios y ejemplos en clase
-* Todos los materiales de la clase los iremos subiendo a GitHub conforme avance del cu Dejaremos **lecturas** a casa antes o después de algunos temas. Es una muy buena idea sí leerlas.
+* Todos los materiales de la clase los iremos subiendo a GitHub conforme avance del curso Dejaremos **lecturas** a casa antes o después de algunos temas. Es una muy buena idea leerlas.
 
-* **¿requerimientos computacionales?**
+* **¿Requerimientos computacionales?**
      
   -  **RAM minima:**      4GB
   -  **Memoria libre:**   8 GB
-  -  Haber precargado en su computadora el archivo OVA mediante Virtual-Box donde ya vienen precargados todos los softwares que utilizaremos para el curso 
+  -  Haber precargado en su computadora el archivo OVA mediante Virtual-Box donde vienen precargados todos los programas a utilizar 
 
 
 ### Este repositorio
