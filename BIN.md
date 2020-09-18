@@ -12,20 +12,20 @@ INSTRUCTORES:
 **Dr. Salvador Fonceca**  
 Investigador SNI 1  
 Facultad de Estudios Superiores Cuautitlan  
-[salvador@gmail.com] 
+[salvador@gmail.com](salvador@gmail.com)  
 
 **M.C. Thalia Adriana Alatorre Garcia**  
 Estudiante de maestria enfocada en bioinformatica  
-[thaliaa_alatorreg@yahoo.com]
-[mvztaag@gmail.com]  
+[thaliaa_alatorreg@yahoo.com](thaliaa_alatorreg@yahoo.com)  
+[mvztaag@gmail.com](mvztaag@gmail.com)  
 
 
 **Lic. Paúl Alexis López Durán**  
 Estudiante de Maestría en Biomedicina y Biotécnologia Molecular  
-[paullodu@live.com.mx]  
+[paullodu@live.com.mx](paullodu@live.com.mx)  
 
 **Lic. Felipe Rodriguez Gaxiola**  
-[felipedjrg3@gmail.com]  
+[felipedjrg3@gmail.com](felipedjrg3@gmail.com)
 
 **Lic. Cruz Fernando López Carrera**  
 Estudiante de Maestría en Biomedicina y Biotécnologia Molecular  
