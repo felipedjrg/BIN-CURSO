@@ -74,7 +74,6 @@ En este curso no te vamos a decir qué programa utilizar ni discutir a profundid
 
 * Intérpretes de comandos y lenguajes (BASH)
 * Ejercicios en terminal
-* BLABLABLA
 
 #### [Dia 3](https://github.com/felipedjrg/BIN-CURSO/tree/master/DIA-3)
 
