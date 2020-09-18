@@ -12,7 +12,7 @@ INSTRUCTORES:
 **Dr. Salvador Fonceca**  
 Investigador SNI 1  
 Facultad de Estudios Superiores Cuautitlan  
-[salvador@gmail.com](mailto:salvador@gmail.com)  
+[fonsecacoronado@yahoo.com](mailto:fonsecacoronado@yahoo.com)  
 
 **M.C. Thalia Adriana Alatorre Garcia**  
 Estudiante de maestria enfocada en bioinformatica  
