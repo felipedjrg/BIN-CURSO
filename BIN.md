@@ -12,25 +12,25 @@ Este curso es ofrecido como ***** ,orientado a entregar las herramientas básica
 INSTRUCTORES:
 
 **Dr.Salvador Fonceca**  
-Investigador SNI 2  
-contacto:[salvador@gmail.com](correo)  
+Investigador SNI 1  
+[salvador@gmail.com](correo)  
 
 **M.C. Thalia Adriana Alatorre Garcia**  
 Estudiante de maestria enfocada en bioinformatica  
-Correo:[thaliaa_alatorreg@yahoo.com](thaliaa_alatorreg@yahoo.com)  
+[thaliaa_alatorreg@yahoo.com](thaliaa_alatorreg@yahoo.com)  
 mvztaag@gmail.com(mvztaag@gmail.com)  
 
 
 **Lic. Paúl Alexis López Durán**  
 Estudiante de Maestría en Biomedicina y Biotécnologia Molecular  
-correo:[paullodu@live.com.mx](paullodu@live.com.mx)  
+[paullodu@live.com.mx](paullodu@live.com.mx)  
 
 **Lic. Felipe Rodriguez Gaxiola**  
-correo:[felipedjrg3@gmail.com](felipedjrg3@gmail.com)  
+[felipedjrg3@gmail.com](felipedjrg3@gmail.com)  
 
 **Lic. Cruz Fernando López Carrera**  
 Estudiante de Maestría en Biomedicina y Biotécnologia Molecular  
-correo:[paullodu@live.com.mx](paullodu@live.com.mx)  
+[est.cruz.lopezc@uas.edu.mx](est.cruz.lopezc@uas.edu.mx)  
 
 
 
@@ -54,13 +54,12 @@ Los **objetivos particulares** son:
 * Un resumen general de los tipos de datos utilizados en genómica y las herramientas computacionales para analizarlos.
 * Una introducción para saber utilizar la línea de comando y R de forma fluida a través de mucha práctica. **Muchos cursos enfocados en análisis de datos genómicos asumen que ya sabes esto, o dan una introducción flash y luego saltan al otro tema, lo que hace  _muy difícil_ realmente aprovechar el otro tema o te deja con malas prácticas difíciles de borrar.**
 * El lenguaje para aprender a entender los manuales de cualquier software bioinformático para poder utilizarlo a fondo por cuenta propia.
-* Un curso con mucha práctica de R enfocado en ciencia reproducible, limpieza y graficación de datos biológicos y genéticos.
 * El piso básico para poder tomar un curso más avanzado o adentrarse por uno mismo en algún análisis concreto (ensamblado de genomas, análisis transcriotómicos, filogenética con métodos Bayesianos, etc).
 
 
 ### Que NO es este curso
 
- en este curso no te vamos a decir qué programa utilizar ni discutir a profundidad métodos de ensamblado etc. Para eso hay cursos especializados intensivos de un par de días que asumen ya sabes usar chido la terminal.
+En este curso no te vamos a decir qué programa utilizar ni discutir a profundidad métodos de ensamblado etc. Para eso hay cursos especializados intensivos de un par de días que asumen ya sabes usar chido la terminal.
 
 
 ## Temario
