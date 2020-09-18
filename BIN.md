@@ -1,8 +1,8 @@
 # BIN-CURSO
 
-# Introducción a la bioinformática e investigación  
+## Introducción a la bioinformática e investigación  
 
-** Introducción a la Bioinformática para Biólogo/as y Genetistas **
+**Introducción a la Bioinformática para Biólogo/as y Genetistas**
 
 
 Este curso es ofrecido como ***** ,orientado a entregar las herramientas básicas para análisis de datos genómicos en el contexto de genética, especialmente la genética de poblaciones.
@@ -16,7 +16,7 @@ Investigador SNI 1
 **M.C. Thalia Adriana Alatorre Garcia**  
 Estudiante de maestria enfocada en bioinformatica  
 [thaliaa_alatorreg@yahoo.com](thaliaa_alatorreg@yahoo.com)  
-mvztaag@gmail.com(mvztaag@gmail.com)  
+[mvztaag@gmail.com] 
 
 
 **Lic. Paúl Alexis López Durán**  
@@ -34,11 +34,11 @@ Estudiante de Maestría en Biomedicina y Biotécnologia Molecular
 
 ## Objetivos
 
-El **objetivo general es** brindar a los y las alumnas las herramientas computacionales de software libre, mejores prácticas y metodologías de reproducibilidad de la ciencia para efectuar, documentar y publicar proyectos bioinformáticos de análisis genómicos.
+Brindar a los y las alumnas las herramientas computacionales de software libre, mejores prácticas y metodologías de reproducibilidad de la ciencia para efectuar, documentar y publicar proyectos bioinformáticos de análisis genómicos.
 
 Los **objetivos particulares** son:
 
-1.	Formar a los y las alumnas en los principios de investigación reproducible y metodologías para organizar proyectos bioinformáticos
+1.	Formar a los alumnos en los principios de investigación reproducible y metodologías para organizar proyectos bioinformáticos
 2.	Introducir a los alumnos a bash, lenguajes de programacion y tecnologías de secuenciación 
 3.	Presentar a los alumnos los tipos de datos genéticos producidos por la secuenciación de siguiente generación
 4.	Introducir a los y las alumnas al análisis e datos genómicos y genomas reducidos
