@@ -11,7 +11,7 @@ INSTRUCTORES:
 
 **Dr. Salvador Fonceca**  
 Investigador SNI 1  
-Facultad de Estudios Superiores Cuautitlan
+Facultad de Estudios Superiores Cuautitlan  
 [salvador@gmail.com] 
 
 **M.C. Thalia Adriana Alatorre Garcia**  
